@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Pöőr Nimród
+=======
 ide rakd
+>>>>>>> fb8029449af1979d43d9f16ece0c0da3491be537
