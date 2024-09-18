@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Keczeli Marcell
+=======
+ide rakd
+>>>>>>> 6ac14b90fc5f943aaf417ecf8dabb7b173af08c1
