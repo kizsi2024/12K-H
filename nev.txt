@@ -1,1 +1,12 @@
-Ide írd a neved!
+<<<<<<< HEAD
+<<<<<<< HEAD
+Keczeli Marcell
+=======
+ide rakd
+>>>>>>> 6ac14b90fc5f943aaf417ecf8dabb7b173af08c1
+=======
+Pöőr Nimród
+=======
+ide rakd
+>>>>>>> fb8029449af1979d43d9f16ece0c0da3491be537
+>>>>>>> 70105c2ed8e5f3faa2009047af50c088d54cd56c
